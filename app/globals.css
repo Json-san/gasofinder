@@ -11,9 +11,10 @@
   --color-border: #e2e8f0;
 
   /* Custom Theme Colors from Template */
-  --color-primary: #21c45d;
+  /* --color-primary: #21c45d; */
+  --color-primary: #9D00FF;
   --color-background-light: #f6f8f7;
-  --color-background-dark: #122017;
+  --color-background-dark: #9D0000;
 
   --font-display: "Inter", var(--font-geist-sans);
   --font-sans: var(--font-geist-sans);
