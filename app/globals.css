@@ -15,8 +15,8 @@
   --color-background-light: #f6f8f7;
   --color-background-dark: #122017;
 
-  --font-display: "Inter", var(--font-geist-sans);
-  --font-sans: var(--font-geist-sans);
+  --font-display: "Outfit", var(--font-outfit), var(--font-geist-sans);
+  --font-sans: var(--font-outfit), var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
